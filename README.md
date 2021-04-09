@@ -2,7 +2,7 @@
 
 ## Nous trouverons ici les documents livrables pour le projet : [Réalisez un plan d'implémentation pour assurer le bon déroulement de votre projet d'architecture](https://openclassrooms.com/fr/paths/293/projects/707/assignment).
 
-## Voici tes missions pour ce projet :
+## Voici les missions pour ce projet :
 
 - Élaborer une analyse de faisabilité sur la migration comprenant les enjeux, les parties prenantes, les contraintes et les risques du projet.
 - Construire une feuille de route exhaustive comprenant les principaux jalons, livrables et échéances, ainsi que les responsabilités de chaque acteur.
